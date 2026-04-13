@@ -9,7 +9,6 @@ Finite difference solvers for option pricing under Black-Scholes and Heston stoc
 - 2D ADI (Alternating Direction Implicit) Crank-Nicolson finite difference solver
 - Analytic pricing via characteristic function inversion (Heston 1993)
 - Grid convergence study verifying second-order accuracy
-- Calibration to live SPY option data with implied volatility surface plots
 
 **`black_scholes.ipynb`** — Black-Scholes finite difference methods:
 - Backward Euler, Crank-Nicolson, and Crank-Nicolson with Rannacher smoothing for European options
